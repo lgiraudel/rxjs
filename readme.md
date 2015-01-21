@@ -2,6 +2,7 @@
 
 ## Installation
 ```bash
+git clone https://github.com/lgiraudel/rxjs.git
 cd rxjs
 npm install && bower install
 grunt serve
